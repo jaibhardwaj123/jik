@@ -1,5 +1,5 @@
 # VEHICLE SERVICE MANAGEMENT
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer]Jai Bhardwaj
 ---
 ## SCREENSHOTS
 ### Home Page
@@ -84,17 +84,3 @@ EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 - Login to gmail through host email id in your browser and open following link and turn it ON
-```
-https://myaccount.google.com/lesssecureapps
-```
-## Drawbacks/LoopHoles
-- When customer/mechanic edit their profile then he/she must login again because their username/password is updated in db.
-## Credits
-- Tran Anh Tuat ( Admin Dashboard UI )
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
