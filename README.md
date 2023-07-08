@@ -1,5 +1,5 @@
 # VEHICLE SERVICE MANAGEMENT
-![developer]Jai Bhardwaj
+Jai Bhardwaj
 ---
 ## SCREENSHOTS
 ### Home Page
