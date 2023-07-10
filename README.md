@@ -3,9 +3,9 @@ Jai Bhardwaj ,Robin , Nitish
 ---
 ## SCREENSHOTS
 ### Home Page
-![dashboard snap](https://github.com/jaibhardwaj123/jik/static/screenshots/home.png?raw=true)
+![dashboard snap](https://github.com/jaibhardwaj123/jik/blob/main/static/screenshots/home.png?raw=true)
 ### Admin Dashboard Dark theme
-![dashboard snap](https://github.com/jaibhardwaj123/jik/static/screenshots/admin_dark.png?raw=true)
+![dashboard snap](https://github.com/jaibhardwaj123/jik/blob/main/static/screenshots/admin_dark.png?raw=true)
 ### Admin Dashboard Light theme
 ![dashboard snap](https://github.com/jaibhardwaj123/jik/static/screenshots/admin_light.png?raw=true)
 ### Mechanic Dashboard
