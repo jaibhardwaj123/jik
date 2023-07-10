@@ -9,7 +9,7 @@ Jai Bhardwaj ,Robin , Nitish
 ### Admin Dashboard Light theme
 ![dashboard snap](https://github.com/jaibhardwaj123/jik/blob/main/static/screenshots/admin_light.png?raw=true)
 ### Mechanic Dashboard
-![dashboard snap](https://github.com/jaibhardwaj123/jik/blob/main/static/mechanic_dashboard.png?raw=true)
+![dashboard snap](https://github.com/jaibhardwaj123/jik/blob/main/static/screenshots/mechanic_dashboard.png?raw=true)
 ### Customer Dashboard
 ![dashboard snap](https://github.com/jaibhardwaj123/jik/blob/main/static/customer_dashboard.png?raw=true)
 ---
